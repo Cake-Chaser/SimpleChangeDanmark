@@ -11,3 +11,5 @@ a early proof-of-convept could be
 3: make ai simplify it (chatgpt)
 4: post to Website (self-hostet/subreddit)
 
+
+der er også muligheder for at hente data budgeter fra fra https://www.dst.dk/da/Statistik/emner/oekonomi/offentlig-oekonomi/offentlig-sektors-oekonomi
